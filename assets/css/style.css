@@ -724,7 +724,8 @@ body {
   border-radius: inherit;
 }
 
-
+.class-card .btn-link { --color: var(--coquelicot); font-weight: 800; text-decoration: solid; }
+.class-card .btn-link:is(:hover, :focus) { --color: var(--rich-black-fogra-29-1); }
 
 
 
@@ -773,8 +774,8 @@ body {
   margin-block: 8px 12px;
 }
 
-.blog-card .btn-link { --color: var(--coquelicot); }
 
+.blog-card .btn-link { --color: var(--coquelicot); }
 .blog-card .btn-link:is(:hover, :focus) { --color: var(--rich-black-fogra-29-1); }
 
 
