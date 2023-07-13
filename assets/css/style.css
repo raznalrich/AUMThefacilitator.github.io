@@ -1404,3 +1404,44 @@ body {
   .footer-top .container { grid-template-columns: 1fr 0.6fr 0.9fr 1fr; }
 
 }
+
+
+
+
+
+
+/* Contact Us Page  */
+.social-list-1 {
+  display: inline-block;
+  /* gap: 15px; */
+}
+
+.social-link-1 {
+  /* background-color: var(--white_20);
+  color: var(--white);
+  padding: 13px;
+  border-radius: 50%;
+  transition: var(--transition-1); */
+  margin-bottom: 10px; 
+  font-size: 40px;
+}
+
+.footer-list-title-1{
+  font-size: 5rem;
+}
+
+.footer-list-item-1 {
+  font-size: 2rem;
+}
+
+.contact-icons{
+  font-size: 35px;
+}
+
+/* .footer-link-1{
+  font-size: 2rem;
+} */
+
+.footer-list-1{
+  margin: 0 100px;
+}
